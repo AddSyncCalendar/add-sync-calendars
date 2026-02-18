@@ -1,3 +1,4 @@
+<center><img src="https://add-sync.com/wp-content/uploads/2022/03/logo-dark.webp" alt="AddSync Manager" /> <br/><h1>AddSync Manager</h1></center>
 # AddSync
 
 **AddSync** is a tool for **real-time calendar synchronization** between Google Calendar, Office 365, Exchange, and iCalendar. Designed for teams, businesses, and individual users, AddSync keeps your calendars, tasks, and contacts fully synchronized across platforms.  
